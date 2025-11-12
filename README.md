@@ -15,7 +15,7 @@ A simple and elegant weather application built using **Django** and the **OpenWe
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/yourusername/django-weather-app.git
+git clone https://github.com/Anuhyapinapati/weather-application.git
 cd django-weather-app
 pip install -r requirements.txt
 python manage.py runserver
